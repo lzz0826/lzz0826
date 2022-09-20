@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("主幹新增");
         System.out.println("創建添加");
         System.out.println("再線更新");
+        System.out.println("再線更新2");
     }
 
 
